@@ -8,10 +8,14 @@
 - Python
 - SQL
 - MS Excell
-- Power BI
 - Machine Learning
 - Statistics
 - Data Visualization
+## Currently Learning
+
+- Advanced SQL
+- Power BI Dashboarding
+- Machine Learning Model Deployment
 
 ## Featured Projects
 
