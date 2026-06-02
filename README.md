@@ -21,12 +21,15 @@
 
 ### Customer Churn Prediction
 Machine learning project to predict customer churn using classification algorithms.
+https://github.com/Kaleemali02/customer_churn_prediction_model
 
 ### House Price Prediction
 Regression-based ML project for predicting housing prices.
+https://github.com/Kaleemali02/house-price-prediction-ml
 
 ### SQL Layoffs Analysis
 Data cleaning and exploratory analysis using SQL.
+https://github.com/Kaleemali02/sql-layoffs-analysis
 
 ## Tools & Technologies
 Python | SQL | Power BI | Pandas | NumPy | Matplotlib | Scikit-Learn
