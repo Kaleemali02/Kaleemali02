@@ -4,6 +4,10 @@
 
 📊 Aspiring Data Analyst & Data Scientist
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Kaleem+Ali;Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships"/>
+</p>
+
 ## Skills
 - Python
 - SQL
