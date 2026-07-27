@@ -2,11 +2,11 @@
 
 🎓 B.Tech CSE Student at ABES Engineering College
 
-📊 Aspiring Data Analyst & Data Scientist
+📊 Aspiring Data Analyst & Data Scientist 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Kaleem+Ali;Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships"/>
-</p>
+## 🚀 Career Goals
+
+I am actively seeking **Data Analyst**, **Business Analyst**, **Machine Learning**, and **Data Science** internship or full-time opportunities where I can apply my analytical and problem-solving skills to real-world business challenges.
 
 ## Skills
 - Python
