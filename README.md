@@ -23,6 +23,11 @@ I am actively seeking **Data Analyst**, **Business Analyst**, **Machine Learning
 
 ## Featured Projects
 
+### 🚖 Ola Ride Booking Analytics
+Interactive end-to-end data analytics project using SQL, Python, and Power BI to analyze ride booking trends, cancellations, revenue, customer behavior, and driver performance.
+
+🔗 https://github.com/Kaleemali02/Ola-Ride-Booking-Analytics
+
 ### Customer Churn Prediction
 Machine learning project to predict customer churn using classification algorithms.
 https://github.com/Kaleemali02/customer_churn_prediction_model
