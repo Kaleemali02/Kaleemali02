@@ -1,6 +1,6 @@
 # Hi, I'm Kaleem Ali 👋
 
-### Data Analyst | Machine Learning Enthusiast | B.Tech CSE
+### Data Analyst | SQL | Python | Excel | Power BI 
 
 I build data-driven projects using **SQL, Python, Power BI, Excel, and Machine Learning** to turn raw data into actionable insights and predictive solutions.
 
